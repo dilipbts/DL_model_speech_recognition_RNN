@@ -1,0 +1,18 @@
+# Core numerical & audio processing
+numpy>=1.24.0,<2.0.0
+librosa>=0.10.0
+scipy>=1.10.0
+
+# Deep Learning (PyTorch with CUDA support)
+# NOTE: PyTorch is installed via a separate command below to get CUDA 12.x
+# If you already have it, you can uncomment this, but the separate install is safer:
+# torch>=2.0.0
+# torchaudio>=2.0.0
+
+# ASR & Evaluation
+openai-whisper>=20231117
+jiwer>=3.0.0
+
+# Utilities
+tqdm>=4.65.0
+ffmpeg-python>=0.2.0
