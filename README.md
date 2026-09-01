@@ -1,1 +1,1 @@
-# DL_models_speech_recognition_RNN
+# DL_model_speech_recognition_RNN
